@@ -6,3 +6,7 @@ This is a console application of the basic phonebook. You can list, add and dele
 
 ## SOURCE
 https://github.com/berkaygozkaman/Phonebook-Console-Application.git
+
+## ScreenShot
+![screenshot](https://github.com/syohex/java-simple-mine-sweeper/raw/master/screenshot.png)
+![screenshot](https://github.com/berkaygozkaman/Phonebook-Console-Application/raw/master/Screenshots/Screenshot_menu.png)
