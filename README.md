@@ -6,6 +6,3 @@ This is a console application of the basic phonebook. You can list, add and dele
 
 ## ScreenShot
 ![screenshot](https://github.com/berkaygozkaman/Phonebook-Console-Application/raw/master/Screenshots/Screenshot_menu.png)
-
-## SOURCE
-https://github.com/berkaygozkaman/Phonebook-Console-Application.git
